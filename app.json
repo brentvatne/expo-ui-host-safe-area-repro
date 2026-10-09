@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Host Safe Area Repro",
+    "slug": "expo-ui-host-safe-area-repro",
+    "scheme": "hostsafearearepro",
+    "ios": { "bundleIdentifier": "dev.brentvatne.hostsafearearepro" },
+    "plugins": ["expo-router"]
+  }
+}
